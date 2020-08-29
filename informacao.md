@@ -67,8 +67,7 @@ Para finalizar, quem quizer fazer uma tradução de acordo com o Acordo Ortográ
 * [Wikipedia - Guia Tradução](https://pt.wikipedia.org/wiki/Ajuda:Guia_de_tradu%C3%A7%C3%A3o/Lista_de_termos_t%C3%A9cnicos_de_inform%C3%A1tica)
 * [Glossário Inglês-Português de Informática](https://quark.fe.up.pt/cgi-bin/orca/glossario)
 
-
 ### Software
 
 * [Wikipedia - translation software](https://en.wikipedia.org/wiki/List_of_translation_software)
-
+* [utx2tmx.py](https://github.com/flippipe/tradu-pt/scripts/utx2tmx.py) Script rudimentar para transformar conteúdo do UTX para TMX
