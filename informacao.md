@@ -70,5 +70,5 @@ Para finalizar, quem quizer fazer uma tradução de acordo com o Acordo Ortográ
 ### Software
 
 * [Wikipedia - translation software](https://en.wikipedia.org/wiki/List_of_translation_software)
-* [utx2tmx.py](https://github.com/flippipe/tradu-pt/scripts/utx2tmx.py) Script rudimentar para transformar conteúdo do UTX para TMX
-* [utx2po.py](https://github.com/flippipe/tradu-pt/scripts/utx2po.py) Script rudimentar para transformar conteúdo do UTX para PO
+* [utx2tmx.py](https://github.com/flippipe/tradu-pt/blob/master/scripts/utx2tmx.py) Script rudimentar para transformar conteúdo do UTX para TMX
+* [utx2po.py](https://github.com/flippipe/tradu-pt/blob/master/scripts/utx2po.py) Script rudimentar para transformar conteúdo do UTX para PO
