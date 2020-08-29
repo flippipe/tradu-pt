@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 import csv
 
+#
+# PO documentation
+# http://pology.nedohodnik.net/doc/user/en_US/ch-poformat.html
+# not followed yet
+#
+
 # initial configuration
 src = 'en'
 variants = ['pt-BR','pt','pt-PT'] # will try to find a match from begin of the list, latest win

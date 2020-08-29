@@ -3,6 +3,11 @@ import csv
 import sys
 from xml.etree.ElementTree import Element, SubElement, ElementTree
 
+#
+# Based on Specification
+# http://xml.coverpages.org/tmxSpec971212.html
+#
+
 # initial configuration
 src = 'en'
 variants = ['pt','pt-BR', 'pt-PT']
