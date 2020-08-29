@@ -1,0 +1,825 @@
+#UTX 1.20; lang: en/pt; creation date:2020-08-29; domain:computer; license: CC BY-NC 4.0														
+#https://www.localeplanet.com/icu/pt/index.html														
+#src:en	src:pos	tgt:pt	term status:pt	comment:pt	tgt:pt-BR	term status:pt-BR	comment:pt-BR	tgt:pt-PT	term status:pt-PT	comment:pt-PT	tgt:pt-AO	term status:pt-AO	comment:pt-AO	concept id
+backdoor	noun	porta de serviço	rejected											
+spreadsheet	noun	folha de cálculo	aproved		planilha	aproved								
+Excel	noun	Excel	non-standard											
+e­mail	noun	correio eletrónico	aproved		correio eletrônico	aproved								
+@at	noun	@												
+3D bioprinting		bioimpressão 3D												
+3D printing		impressão 3D												
+3D scanning		digitalização 3D												
+access		acesso												
+access control	sentence	controlo de acesso												
+access network		rede de acesso												
+access permission		permissão de acesso												
+access profile		perfil de acesso												
+access right		direito de acesso												
+access to data		acesso a dados												
+access to information		acesso à informação												
+access to knowledge		acesso ao conhecimento												
+access to the Internet		acesso à Internet												
+accessibility		acessibilidade												
+accessibility supported		suporte à acessibilidade												
+accreditation		acreditação												
+accreditation authority		entidade credenciadora												
+adaptive learning		aprendizagem adaptativa												
+address		endereço												
+advanced digital signature		assinatura eletrónica avançada												
+Advanced Encryption Standard		norma AES												
+advanced metering infrastructure		infraestrutura de medição avançada												
+adware		software de publicidade não solicitada												
+algorithm		algoritmo												
+American Standard Code for Information Interchange		código ASCII												
+analog signal		sinal analógico												
+anti­spam filter		filtro anti­spam												
+application programming interface		interface de programação de aplicações												
+application service provider		fornecedor de serviços de aplicação												
+application software		software de aplicação												
+Artificial Intelligence		Inteligência Artificial												
+artificial language		linguagem artificial												
+assistive technology		tecnologia de assistência												
+asymmetric cryptography		criptografia assimétrica												
+asymmetric digital subscriber line		linha de subscritor digital assimétrica												
+asynchronous transfer mode		modo de transferência assíncrono												
+Atom syndication format		formato Atom												
+Audio Video Interleave		formato AVI												
+audit		auditoria												
+augmented reality		realidade aumentada												
+authenticity		autenticidade												
+automatic content recognition		reconhecimento automático de conteúdos												
+automation		automação												
+automation (2)		automatização												
+availability		disponibilidade												
+avatar		avatar												
+b­learning		aprendizagem mista												
+back office system		sistema informático de retaguarda												
+backbone		rede dorsal												
+background		em segundo plano												
+backup		salvaguarda												
+balanced eGovernment		Governo eletrónico equilibrado												
+bandwidth		largura de banda												
+bandwidth as currency		largura de banda como moeda												
+banner		banda publicitária												
+baseband		banda de base												
+benchmarking		análise comparativa												
+best practices		boas práticas												
+Big Data		Grandes Dados												
+biometric control		controlo biométrico												
+biometrics		biometria												
+bit		bit												
+bit per second		bit por segundo												
+black list		lista negra												
+black technology		tecnologia negra												
+blog		blogue												
+blogsphere		blogosfera												
+bluetooth		bluetooth												
+bookmarks		marcadores												
+boot (to)		inicializar (o computador)												
+Braille terminal		terminal Braille												
+bridgeware		software de transição												
+broadband		banda larga												
+browser		navegador												
+bug		erro (informático)												
+bulletin board system		sistema de boletins eletrónicos												
+bus		barramento												
+business intelligence		inteligência empresarial												
+business process		processo de negócio												
+business process management		gestão dos processos de negócio												
+business process outsourcing		contratação externa de processos de negócio												
+business process reengineering		reengenharia dos processos de negócio												
+business to business		transações empresas ­empresas												
+business to consumer		transações empresas­ consumidores												
+business to employees		transações empresas­ colaboradores												
+byte		byte												
+byte per second		byte por segundo												
+cable modem		modem de cabo												
+cable television		televisão por cabo												
+call center		centro de contacto												
+Capability Maturity model		modelo CMM												
+cascading style sheets		folhas de estilo em cascata												
+case­sensitive		sensível a maiúsculas e minúsculas												
+certificate management		gestão de certificados												
+certificate revogation list		lista de certificados revogados												
+certification		certificação												
+certification authority		autoridade certificadora												
+chain letter		mensagem (de correio eletrónico) em cadeia												
+chat		conversa (em linha)												
+chip		chip												
+chip card		cartão de circuitos integrados												
+citizen identification		identificação do cidadão												
+citizen to Government		transações cidadãos­Governo												
+client		cliente												
+client­server		cliente­servidor												
+client­server architecture		arquitetura cliente­servidor												
+cloud computing		computação na nuvem												
+cloud storage		armazenamento na nuvem												
+cloudware		software na nuvem												
+cluster		agrupamento												
+co­creation		cocriação												
+coaxial cable		cabo coaxial												
+code		código												
+commerce eXtensible Markup Language Resources		protocolo cXML Resources												
+commercial on­line service		serviço em linha comercial												
+Common Criteria		norma Critérios Comuns												
+common gateway interface		interface CGI												
+communication		comunicação												
+communication channel		canal de comunicação												
+communication network		rede de comunicação												
+community of practice		comunidade de prática												
+compact disk		disco compacto												
+compact disk ­ interactive		disco compacto interativo												
+compact disk ­ read only memory		disco compacto apenas de leitura												
+compliance		conformidade												
+computer application		aplicação informática												
+computer crime		crime informático												
+computer file		ficheiro informático												
+electronic file		ficheiro informático												
+computer literacy		literacia digital												
+computer network		rede de computadores												
+computer science		informática												
+computer security		segurança informática												
+computer singularity		singularidade computacional												
+computer system		sistema informático												
+computer­ supported communication		comunicação apoiada em computadores												
+computer­ supported cooperative work		trabalho de cooperação apoiado em computadores												
+conference call		audioconferência												
+confidentiality		confidencialidade												
+connectivity		conectividade												
+contactless card		cartão sem contacto												
+contactless payment		pagamento sem contacto												
+content		conteúdo												
+content control		controlo de conteúdos												
+content management		gestão de conteúdos												
+content management system		sistema de gestão de conteúdos												
+content provider		fornecedor de conteúdos												
+cookie		cookie												
+corporate governance		governação das organizações												
+cracker		pirata informático												
+crash		falha fatal												
+crawler		batedor												
+create, read, update and delete		criar, ler, atualizar e eliminar												
+Creative Commons		licença Creative Commons												
+crowdfunding		financiamento coletivo												
+crowdsourcing		participação coletiva												
+cryptanalysis		análise criptográfica												
+cryptogram		criptograma												
+cryptographic algorithm		algoritmo criptográfico												
+cryptographic key		chave criptográfica												
+cryptography		criptografia												
+customer relationship management		gestão da relação com o cliente												
+cybercafe		cibercafé												
+cybercrime		cibercrime												
+cyberethics		cibernética												
+cybernaut		cibernauta												
+cybernetics		cibernética												
+cybersecurity		cibersegurança												
+cyberspace		ciberespaço												
+cyberwar		ciberguerra												
+cypher		cifra												
+daemon		daemon												
+dark web		Web escura												
+dashboard		painel de gestão												
+data		dados												
+data aggregation		agregação de dados												
+data center		centro de processamento de dados												
+data certification		certificação de dados												
+data communication		comunicação de dados												
+data compression		compressão de dados												
+data flow		fluxo de dados												
+data flow diagram		diagrama de fluxo de dados												
+data input		entrada de dados												
+data integration		integração de dados												
+data management		gestão de dados												
+data mining		mineração de dados												
+data network		rede de dados												
+data output		saída de dados												
+data privacy		privacidade de dados												
+data protection		proteção de dados												
+data recovery		recuperação de dados												
+data transparency		transparência dos dados												
+data warehouse		armazém de dados												
+database		base de dados												
+decision support system		sistema de apoio à decisão												
+decoding		descodificação												
+decryption		desencriptação												
+dedicated access		acesso dedicado												
+dedicated line		circuito dedicado												
+deep web		Web profunda												
+denial of service		negação de serviço												
+desktop		computador de secretária												
+desktop as a service		ambiente de trabalho como serviço												
+dial­up access		ligação por linha comutada												
+digital age		era digital												
+digital audio		áudio digital												
+digital certification		certificação digital												
+digital compression		compressão digital												
+digital content		conteúdo eletrónico												
+digital corporation		empresa digital												
+digital divide		divisão digital												
+digital economy		economia eletrónica												
+digital exclusion		infoexclusão												
+digital identity		identidade digital												
+digital inclusion		infoinclusão												
+digital library		biblioteca digital												
+digital media		meios de comunicação digitais												
+digital mobile key		chave móvel digital												
+digital music player		leitor de música digital												
+digital network		rede digital												
+digital preservation		preservação digital												
+digital rights management		gestão de direitos digitais												
+digital signal		sinal digital												
+digital signature		assinatura digital												
+digital subscriber line		linha de subscritor digital												
+digital television		televisão digital												
+digital terrestrial television		televisão digital terrestre												
+digital transmission		transmissão digital												
+digital versatile disk		disco versátil digital												
+digital video		vídeo digital												
+digital video broadcasting		difusão de vídeo digital												
+digital video interactive		vídeo digital interativo												
+digital wallet		carteira eletrónica												
+digitalisation		digitalização												
+direct­to­home		direto para casa												
+disaster recovery		recuperação de desastre												
+disclosure of data		divulgação de dados												
+distributed computing		computação Distribuída												
+distribution list		lista de distribuição												
+Document Management and Electronic Archiving		Gestão e Arquivo Eletrónico de Documentos												
+documentation management		gestão documental												
+domain		domínio												
+domain name		nome de domínio												
+Domain Name System		sistema DNS												
+domotics home automation		domótica												
+download (to)		descarregar												
+drafts		caixa de rascunhos												
+dribbleware		software ajustável												
+Dublin Core		Dublin Core												
+dynamic page		página dinâmica												
+e­banking		banca eletrónica												
+e­book		livro eletrónico												
+e­business		negócio eletrónico												
+e­cash		dinheiro eletrónico												
+e­commerce		comércio eletrónico												
+e­communication		comunicação eletrónica												
+e­conference		conferência eletrónica												
+e­culture		cultura eletrónica												
+e­democracy		democracia eletrónica												
+e­development		desenvolvimento eletrónico												
+e­document		documento eletrónico												
+e­education		educação eletrónica												
+e­filing		declaração eletrónica												
+e­government		Administração Pública eletrónica												
+e­government		Governo eletrónico												
+e­health		saúde eletrónica												
+e­invoice		fatura eletrónica												
+e­journalism		jornalismo eletrónico												
+e­Justice		Justiça eletrónica												
+e­kiosk		quiosque eletrónico												
+e­learning		aprendizagem eletrónica												
+e­magazine		revista eletrónica												
+														
+e­mail address		endereço (de correio) eletrónico												
+e­mail server		servidor de correio (eletrónico)												
+e­management		gestão eletrónica												
+e­marketplace		mercado eletrónico												
+e­newsletter		boletim eletrónico												
+e­procurement		aprovisionamento eletrónico												
+e­readiness		nível de preparação eletrónica												
+e­recruitment		recrutamento eletrónico												
+e­shop		loja eletrónica												
+e­shopping		compras eletrónicas												
+e­signature		assinatura eletrónica												
+e­transactions		transações eletrónicas												
+electronic administration		administração eletrónica												
+electronic archive		arquivo eletrónico												
+electronic authentication		autenticação eletrónica												
+electronic data interchange		intercâmbio eletrónico de dados												
+electronic data processing		processamento eletrónico de dados												
+electronic dossier		dossiê eletrónico												
+electronic form		formulário eletrónico												
+electronic fund transfer		transferência eletrónica de fundos												
+electronic health card		cartão de saúde eletrónico												
+electronic identification card		cartão de identificação eletrónico												
+electronic identification document		documento de identificação eletrónico												
+electronic laws		legislação em suporte eletrónico												
+electronic participation		participação eletrónica												
+electronic payment		pagamento eletrónico												
+electronic prescription		prescrição eletrónica												
+electronic service		serviço eletrónico												
+electronic tendering		concurso eletrónico												
+electronic voting		votação eletrónica												
+eletronic ticketing		bilhete eletrónico												
+emoticon		ícone emocional												
+encoding		codificação												
+encryption		encriptação												
+enterprise application integration		integração de aplicações empresariais												
+enterprise architecture		arquitetura de empresa												
+enterprise content management		gestão de conteúdos empresariais												
+enterprise project management		gestão de projetos empresariais												
+enterprise resource planning		planeamento de recursos empresariais												
+entity		entidade												
+error detection		deteção de erros												
+Ethernet		Ethernet												
+Ethernet hub		concentrador de rede												
+European Computer Driving License		Carta Europeia de Condução em Informática												
+European Network and Information Security Agency		Agência Europeia para a Segurança das Redes e da Informação												
+event		evento												
+event driven architecture		arquitetura orientada a eventos												
+executive information system		sistema de informação para executivos												
+exploit		software de exploração de vulnerabilidades												
+Extended Simple Mail Transfer protocol		protocolo ESMTP												
+eXtensible Markup Language		linguagem XML												
+eXtensible Stylesheet Language		linguagem XSL												
+extranet		extranet												
+feed		feed												
+feedWeb feed		fornecimento (Web)												
+file		ficheiro												
+file compression		compressão de ficheiros												
+File Transfer protocol		protocolo FTP												
+firewall		barreira de proteção												
+Firewire		Tecnologia Firewire												
+firmware		software permanente												
+fixed telephone network		rede telefónica fixa												
+fixed telephony		telefonia fixa												
+flash memory		memória flash												
+folksonomy		Indexação social												
+form		formulário												
+format (to)		formatar												
+frames per second		quadros por segundo												
+free and open source software		software livre/aberto												
+free software		software livre												
+freeware		software gratuito												
+frequently asked questions		perguntas mais frequentes												
+front office system		sistema informático frontal												
+full­motion video		vídeo de movimento total												
+gateway		porta de ligação												
+General Packet Radio service		serviço GPRS												
+geographical information system		sistema de informação geográfica												
+Geographical Markup Language		linguagem GML												
+gesture control		controlo por gestos												
+global information infrastructure		infraestrutura global da informação												
+Global Positioning System		sistema de posicionamento global												
+Global System for Mobile Communications		sistema GSM												
+global village		aldeia global												
+globalisation		globalização												
+good governance		boa governação												
+Google file system		sistema GFS												
+Governance Enterprise Architecture		arquitetura de governação empresarial												
+Government gateway		plataforma de interoperabilidade do Governo												
+government to business		transações Governo­empresas												
+government to citizens		transações Governo­cidadãos												
+government to government		transações Governo­Governo												
+Graphic Interchange Format		formato GIF												
+graphical user interface		interface gráfica do utilizador												
+grid computing		computação em grelha												
+groupware		software colaborativo												
+hacker		entusiasta da informática												
+Hadoop		Hadoop												
+hardware		hardware												
+hash algorithm		algoritmo de dispersão												
+hash value hash		valor hash												
+hashtag		hashtag												
+health professional card		cartão profissional de saúde												
+help desk		serviço de apoio												
+high definition television		televisão de alta definição												
+high performance computing (and communication)		computação (e comunicação) de elevado desempenho												
+hoax		embuste												
+home page		página principal												
+host		hospedeiro												
+host computer		computador hospedeiro												
+hosting		alojamento virtual												
+hotspot		ponto de acesso à Internet												
+housing		alojamento físico												
+human augmentation		melhoramento humano												
+hyperlink		hiperligação												
+hypertext		hipertexto												
+Hypertext Markup language		linguagem HTML												
+HyperText Transfer protocol		protocolo HTTP												
+Hypertext Transfer protocol over Secure Socket Layer		protocolo HTTPS												
+ICQ software		software ICQ												
+identity authentication		autenticação de identidade												
+identity management		gestão de identidades												
+identity theft		roubo de identidade												
+In­Memory processing		processamento em memória												
+inbox		caixa de entrada												
+information		informação												
+information and communication infrastructure		infraestrutura da informação e comunicação												
+information and communication technologies		tecnologias da informação e comunicação												
+information architecture		arquitetura da informação												
+information broker		intermediário de informação												
+information crime		crime de informação												
+information democracy		democracia da informação												
+information economy		economia da informação												
+information environment		ambiente de informação												
+information industry		indústria da informação												
+information legislation		legislação da informação												
+information management		gestão da informação												
+information market		mercado da informação												
+information overload		sobrecarga de informação												
+information policy		política de informação												
+information resources		recursos de informação												
+information retrieval		recuperação da informação												
+information security		segurança da informação												
+information services		serviços de informação												
+Information Society policy		política da Sociedade da Informação												
+Information Society Technologies		tecnologias da Sociedade da Informação												
+information space		espaço de informação												
+information sphere		esfera da informação												
+information superhighway		autoestrada da informação												
+information system		sistema de informação												
+information technologies		tecnologias da informação												
+information technology governance		governação das tecnologias da informação												
+information user		utilizador de informação												
+innovation process management		gestão do processo de inovação												
+insourcing		contratação interna												
+instant messaging		serviço de mensagens instantâneas												
+integrated services digital network		rede digital com integração de serviços												
+integrity		integridade												
+intellectual property		propriedade intelectual												
+intelligent agents		agentes inteligentes												
+intelligent telephone network		rede telefónica inteligente												
+interactive application		aplicação interativa												
+interactive television		televisão interativa												
+interactivity		interatividade												
+interconnectivity		interconectividade												
+interface		interface												
+Internet		Internet												
+Internet access provider		fornecedor de acesso à Internet												
+Internet forum		fórum de discussão												
+Internet Message Access Protocol ­version 4		protocolo IMAP4												
+Internet of things		Internet das coisas												
+Internet Protocol		protocolo IP												
+Internet Protocol address		endereço IP												
+Internet Protocol Television		Televisão sobre IP												
+Internet Protocol version 4		protocolo IP versão 4												
+Internet Protocol version 6		protocolo IP versão 6												
+Internet telephony		telefonia Internet												
+Internet terminal		terminal Internet												
+Internet TV		televisão pela Internet												
+Internet2		Internet2												
+Internet Net		Internet												
+interoperability		interoperabilidade												
+interoperability framework		plataforma de interoperabilidade												
+intranet		intranet												
+intruder		intruso informático												
+IP address		endereço Internet												
+Java		linguagem Java												
+Joint Photographers Expert Group format		formato JPEG												
+key performance indicator		indicador chave de desempenho												
+knowledge		conhecimento												
+knowledge base		base de conhecimento												
+knowledge economy		economia do conhecimento												
+knowledge management		gestão do conhecimento												
+Knowledge Society		Sociedade do Conhecimento												
+laptop		computador portátil												
+latency		latência												
+lean government		Governo otimizado												
+leased line		circuito alugado												
+leased lineleased circuit		linha alugada												
+life event		evento de vida												
+Light Emitting Diode Display		ecrã LED												
+Light Weight Directory Access protocol		protocolo LDAP												
+link		ligação												
+Liquid Cristal Display		ecrã LCD												
+local area network		rede local												
+localhost		localhost												
+log file		ficheiro de relatório												
+log in (to)		iniciar uma sessão												
+log off (to)		terminar uma sessão												
+lol		lol												
+ludification		ludificação												
+m­business		negócio móvel												
+m­commerce		comércio móvel												
+machine to machine		comunicação máquina­máquina												
+magnetic card		cartão magnético												
+mailbox		caixa de correio (eletrónico)												
+mailing list		lista de correio												
+malware		software malicioso												
+man ­machine interaction		interação homem­máquina												
+management information system		sistema de informação de gestão												
+MapReduce		MapReduce												
+markup language		linguagem de marcação												
+mashup		aplicação composta												
+mass collaboration		colaboração em massa												
+mass communication		comunicação social												
+media		media												
+media break		descontinuidade de suporte												
+memory card		cartão de memória												
+memory card reader		leitor de cartões (de memória)												
+message authentication		autenticação de mensagem												
+metadata		metadados												
+metropolitan area network		rede metropolitana												
+middleware		software intermédio												
+mobile application		aplicação móvel												
+mobile browsing		navegação móvel												
+mobile communications		comunicações móveis												
+mobile content delivery		distribuição de conteúdos a dispositivos móveis												
+mobile information retrieval		extração de informação com dispositivos móveis												
+mobile operating system		Sistema operativo móvel												
+mobile over­the­air payment		pagamento móvel												
+mobile phone		telemóvel												
+mobile telephony		telefonia móvel												
+mobility		mobilidade												
+model requirement for the Management of Electronic Records		modelo MoReq												
+modem		modem												
+monitoring		monitorização												
+motherboard		placa mãe												
+Moving Pictures Expert Group format		formato MPEG												
+MP4 format		formato MP4												
+MPEG­1 Audio Layer­3 format		formato MP3												
+multimedia		multimédia												
+Multipurpose Internet Mail Extensions		protocolo MIME												
+narrowband		banda estreita												
+National Comission for Data Protection		Comissão Nacional de Proteção de Dados												
+natural language		linguagem natural												
+natural user interface		interface natural do utilizador												
+navigation		navegação												
+Near field communication		tecnologia NFC												
+Net economy		economia da Internet												
+netbook		computador orientado para a Net												
+netiquette		etiqueta da Net												
+network		rede												
+Network computing		computação em rede												
+network interface		interface de rede												
+Network News Transfer protocol		protocolo NNTP												
+network organization		organização em rede												
+network security		segurança de redes												
+Network Society		Sociedade em Rede												
+network technologies		tecnologias de redes												
+networked economy		economia em rede												
+networked Governments		Governos interligados												
+news server		servidor de notícias												
+newsgroup		grupo de discussão												
+nickname		nome alternativo												
+nickname alias		aliás												
+non case­sensitive		insensível a maiúsculas e minúsculas												
+non­repudiation		não repúdio												
+offline		não conectado												
+offline payment		pagamento offline												
+one­stop government		interface administrativa única												
+one­stop shop		balcão único (de atendimento)												
+one­time password		palavra­passe de utilização única												
+online		em linha												
+online analytical processing		processamento analítico em linha												
+online application		candidatura em linha												
+Online Certificate Status protocol		protocolo OCSP												
+online services		serviços em linha												
+Online Services Computer interfaces		interfaces OSCI												
+ontology		ontologia												
+open (source) software		software aberto												
+open architecture		arquitetura aberta												
+open data		dados abertos												
+open format		formato aberto												
+open network		rede aberta												
+open standard		norma aberta												
+open system		sistema aberto												
+open systems interconnection		interconexão de sistemas abertos												
+OpenID standard		norma OpenID												
+operating system		sistema operativo												
+optical disk		disco ótico												
+optical fiber		fibra ótica												
+optical fibre network		rede de fibra ótica												
+Organic Light Emitting Diode Display		ecrã OLED												
+Organisation for the Advancement of Structured Information Standards		Organização para o Desenvolvimento de Normas de Informação Estruturada												
+outbox		caixa de saída												
+outsourcing		contratação externa												
+packet		pacote												
+palm to phand­held		computador de bolso												
+parental control		controlo parental												
+password		palavra­passe												
+peer to peer		posto­a­posto												
+pendrive		caneta USB												
+performance		desempenho												
+personal communication network		rede PCN												
+personal computer		computador pessoal												
+personal data		dados pessoais												
+personal digital assistant		assistente digital pessoal												
+personal identification number		número de identificação pessoal												
+pharming		falsificação do destino (dos dados)												
+phishing		falsificação da interface												
+plug and play		ligue e use												
+plug­in		módulo de extensão												
+podcasting		podcasting												
+point of presence		ponto de presença												
+policy formulation		definição de políticas												
+policy implementation		implementação de políticas												
+pop­up menu		menu instantâneo												
+pop­up window		janela instantânea												
+portability		portabilidade												
+Portable Network Graphics		formato PNG												
+post		artigo												
+Post Office Protocol ­ version 3		protocolo POP3												
+privacy policy		política de privacidade												
+private key		chave privada												
+project management		gestão de projetos												
+proprietary format		formato fechado												
+proprietary network		rede proprietária												
+protocol		protocolo												
+proxy server		servidor intermediário												
+public domain		domínio público												
+public domain software		software de domínio público												
+public information		informação pública												
+public key		chave pública												
+public key certificate		certificado de chave pública												
+public key certificate		certificado digital												
+Public Key Cryptography Standard		norma PKCS												
+public key infrastructure		infraestrutura de chaves públicas												
+Public Private Partnership		parceria público­ privada												
+public sector		setor público												
+public value		valor público												
+pull technology		tecnologia pull												
+push technology		tecnologia push												
+pushware		software de envio seletivo												
+qualified (digital) certificate		certificado digital qualificado												
+qualified electronic signature		assinatura eletrónica qualificada												
+quality of service		qualidade de serviço												
+quantum computing		computação quântica												
+radio frequency identification		identificação por radiofrequência												
+real time enterprise		empresa em tempo real												
+really simple syndication format		formato RSS												
+reboot (to)		reinicializar (o computador)												
+record		registo												
+Regular Language for XML New Generation		linguagem regular para XML ­ nova geração												
+release		versão (disponibilizada)												
+reliability		fiabilidade												
+remote login		iniciar uma sessão remotamente												
+Representational State Transfer		arquitetura REST												
+Resource Description Framework		modelo RDF												
+Resource Reservation Setup protocol		protocolo RSVP												
+risk management		gestão do risco												
+roadmap		roteiro												
+roaming		roaming												
+robot		robô												
+robotics		robótica												
+router		roteador												
+RSA algorithm		algoritmo RSA												
+safer Internet day		dia da Internet mais segura												
+safety		garantia de segurança												
+scam		fraude												
+acambaiting		apanha ardilosa												
+scanner		digitalizador (por varrimento)												
+scorecard		scorecard												
+screen scraping		captura de dados em ecrã												
+search		pesquisa (de informação)												
+search engine		motor de busca												
+search results		resultado da pesquisa (de informação)												
+secret key		chave secreta												
+Secure Socket Layer		protocolo SSL												
+security		segurança												
+security audit		auditoria de segurança												
+semantic Web		Web semântica												
+sent items		caixa de itens enviados												
+server		servidor												
+service		serviço												
+service level agreement		acordo de nível de serviço												
+service oriented architecture		arquitetura orientada a serviços												
+service pack		pacote de correção (de erros específicos)												
+service provider		fornecedor de serviços												
+service ability		disponibilidade de um serviço												
+session		sessão												
+set­top box		caixa adaptadora												
+shared service center		centro de serviços partilhados												
+shareware		software de utilização condicionada												
+Short Message service		serviço de mensagens curtas												
+shut­down		encerramento												
+shutdown		fecho												
+signature card		cartão de assinatura												
+Simple Mail Transfer Protocol		protocolo SMTP												
+Simple Object Access Protocol		protocolo SOAP												
+single access point		ponto de acesso único												
+single sign­on		autenticação única												
+slideware		software por diapositivos												
+smart card		cartão inteligente												
+smart fabrics		tecidos inteligentes												
+Smart Pill		Pílula inteligente												
+smartphone		telefone inteligente												
+snail mail		correio postal												
+social BPM		gestão social de processos de negócio												
+social engineering		engenharia social												
+social media		media sociais												
+social network		rede social												
+socio­technical		sociotécnico												
+socio­technical system		sistema sociotécnico												
+software		software												
+software as a service		software como serviço												
+software engineering		engenharia de software												
+software house		empresa de software												
+software Integrity		Integridade de software												
+spam		spam												
+spoofing		falsificação da identidade												
+spyware		software espião												
+standard		norma												
+Standard Generalized Markup Language		linguagem SGML												
+streaming		fluxo contínuo												
+Structured Query Language		linguagem SQL												
+Surface web		Web superficial												
+switch		comutador												
+switched circuit		circuito comutado												
+symmetric cryptography		criptografia simétrica												
+symmetric digital subscriber line		linha de subscritor digital simétrica												
+system software		software de sistema												
+tablet computer		computador tablete												
+taxonomy		taxonomia												
+technologic innovation		inovação tecnológica												
+telecommunications		telecomunicações												
+telecommunications policy		política de telecomunicações												
+teleconference		teleconferência												
+telematics		telemática												
+telemedicine		telemedicina												
+telephony		telefonia												
+teleservice		teleserviço												
+teleworking		teletrabalho												
+Telnet protocol		protocolo Telnet												
+template (1)		modelo de apresentação												
+template (2)		padrão de referência												
+thread		linha de discussão												
+threat		ameaça												
+time stamp		marca do dia												
+timeout		tempo (de espera) excedido												
+timestamp		datação												
+token		dispositivo de autenticação												
+top domain		domínio de topo												
+touch screen		ecrã tátil												
+traceability		rastreabilidade												
+Trans­European Services for Telematics between Administrations		Serviços Transeuropeus para Comunicação à Distância entre Administrações												
+transactions		transações												
+Transmission Control protocol		protocolo TCP												
+Transmission Control protocol/Internet protocol		protocolo TCP/IP												
+transmission rate		velocidade de transmissão												
+treeware		treeware												
+trojan (horse)		cavalo de Troia												
+trust		confiança												
+trust center		entidade certificadora												
+trusted time stamp		validação cronológica												
+trustmark		marca de confiança												
+Ultra High Definition television		Televisão de muito alta definição												
+ultra­wide band		banda ultralarga												
+Uniform Resource Locator		endereço Web												
+Universal Description, Discovery and Integration directory		diretório UDDI												
+Universal Mobile Telecommunication System		sistema UMTS												
+universal unique identifier		identificador universal único												
+upload (to)		carregar												
+usability		usabilidade												
+USB hub		concentrador USB												
+user		utilizador												
+user agent		agente do utilizador												
+user name		nome de utilizador												
+Users network		rede Usenet												
+utilities		utilitários												
+value added network service		serviço de rede de valor acrescentado												
+vaporware		software fantasma												
+vertical portal		portal vertical												
+very high rate digital subscriber line		linha de subscritor digital de alto débito												
+video­on­demand		vídeo a pedido												
+videoconference		videoconferência												
+virtual		virtual												
+virtual community		comunidade virtual												
+virtual corporation		empresa virtual												
+virtual private network		rede privada virtual												
+virtual reality		realidade virtual												
+virtual school		escola virtual												
+virus		vírus												
+voice over IP		voz sobre IP												
+vulnerability		vulnerabilidade												
+wall post		mural												
+warez		software pirateado												
+watermark		marca de água												
+Web architecture		arquitetura Web												
+Web content management		gestão de conteúdos Web												
+Web design		conceção Web												
+Web designer		autor de páginas Web												
+Web feed aggregator		agregador de fornecimentos Web												
+Web feed reader		leitor de fornecimentos Web												
+Web page		página Web												
+Web portal		portal Web												
+Web server		servidor Web												
+Web service modelling ontology		ontologia para a modelação de serviços Web												
+Web services		serviços Web												
+Web Services Description language		linguagem WSDL												
+Web site		sítio Web												
+Web standards		normas Web												
+Web TV		televisão Web												
+Web­enabling		adaptação à Web												
+webcasting		difusão Web												
+webmaster		administrador Web												
+Wi­Fi		Wi­Fi												
+wide area network		rede alargada												
+wiki		wiki												
+Windows Media Audio format		formato WMA												
+Windows Metafile format		formato WMF												
+Wireless Application protocol		protocolo WAP												
+wireless communication		comunicação sem fios												
+wireless local area network		rede de área local sem fios												
+wireless phone		telefone sem fios												
+wireless power transfer		transmissão de energia sem fios												
+workflow		fluxo de trabalho												
+workstation		estação de trabalho												
+World Wide Web		World Wide Web												
+World Wide Web consortium		consórcio World Wide Web												
+worm		verme												
+X­Window		Interface X­Window												
+X.509 standard		norma X.509												
+XML schema		esquema XML												
+XML security		segurança XML												
+Z­Wave		protocolo Z­Wave												

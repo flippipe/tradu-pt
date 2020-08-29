@@ -1,0 +1,2 @@
+https://quark.fe.up.pt/cgi-bin/orca/glossario
+https://wiki.ubuntu.com/PortugalTeam/TranslationMemory
