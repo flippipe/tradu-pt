@@ -1,0 +1,2445 @@
+msgid "@at"
+msgstr "@"
+
+msgid "3D bioprinting"
+msgstr "bioimpressão 3D"
+
+msgid "3D printing"
+msgstr "impressão 3D"
+
+msgid "3D scanning"
+msgstr "digitalização 3D"
+
+msgid "access"
+msgstr "acesso"
+
+msgid "access control"
+msgstr "controlo de acesso"
+
+msgid "access network"
+msgstr "rede de acesso"
+
+msgid "access permission"
+msgstr "permissão de acesso"
+
+msgid "access profile"
+msgstr "perfil de acesso"
+
+msgid "access right"
+msgstr "direito de acesso"
+
+msgid "access to data"
+msgstr "acesso a dados"
+
+msgid "access to information"
+msgstr "acesso à informação"
+
+msgid "access to knowledge"
+msgstr "acesso ao conhecimento"
+
+msgid "access to the Internet"
+msgstr "acesso à Internet"
+
+msgid "accessibility"
+msgstr "acessibilidade"
+
+msgid "accessibility supported"
+msgstr "suporte à acessibilidade"
+
+msgid "accreditation"
+msgstr "acreditação"
+
+msgid "accreditation authority"
+msgstr "entidade credenciadora"
+
+msgid "adaptive learning"
+msgstr "aprendizagem adaptativa"
+
+msgid "address"
+msgstr "endereço"
+
+msgid "advanced digital signature"
+msgstr "assinatura eletrónica avançada"
+
+msgid "Advanced Encryption Standard"
+msgstr "norma AES"
+
+msgid "advanced metering infrastructure"
+msgstr "infraestrutura de medição avançada"
+
+msgid "adware"
+msgstr "software de publicidade não solicitada"
+
+msgid "algorithm"
+msgstr "algoritmo"
+
+msgid "American Standard Code for Information Interchange"
+msgstr "código ASCII"
+
+msgid "analog signal"
+msgstr "sinal analógico"
+
+msgid "anti­spam filter"
+msgstr "filtro anti­spam"
+
+msgid "application programming interface"
+msgstr "interface de programação de aplicações"
+
+msgid "application service provider"
+msgstr "fornecedor de serviços de aplicação"
+
+msgid "application software"
+msgstr "software de aplicação"
+
+msgid "Artificial Intelligence"
+msgstr "Inteligência Artificial"
+
+msgid "artificial language"
+msgstr "linguagem artificial"
+
+msgid "assistive technology"
+msgstr "tecnologia de assistência"
+
+msgid "asymmetric cryptography"
+msgstr "criptografia assimétrica"
+
+msgid "asymmetric digital subscriber line"
+msgstr "linha de subscritor digital assimétrica"
+
+msgid "asynchronous transfer mode"
+msgstr "modo de transferência assíncrono"
+
+msgid "Atom syndication format"
+msgstr "formato Atom"
+
+msgid "Audio Video Interleave"
+msgstr "formato AVI"
+
+msgid "audit"
+msgstr "auditoria"
+
+msgid "augmented reality"
+msgstr "realidade aumentada"
+
+msgid "authenticity"
+msgstr "autenticidade"
+
+msgid "automatic content recognition"
+msgstr "reconhecimento automático de conteúdos"
+
+msgid "automation"
+msgstr "automação"
+
+msgid "automation (2)"
+msgstr "automatização"
+
+msgid "availability"
+msgstr "disponibilidade"
+
+msgid "avatar"
+msgstr "avatar"
+
+msgid "b­learning"
+msgstr "aprendizagem mista"
+
+msgid "back office system"
+msgstr "sistema informático de retaguarda"
+
+msgid "backbone"
+msgstr "rede dorsal"
+
+msgid "background"
+msgstr "em segundo plano"
+
+msgid "backup"
+msgstr "salvaguarda"
+
+msgid "balanced eGovernment"
+msgstr "Governo eletrónico equilibrado"
+
+msgid "bandwidth"
+msgstr "largura de banda"
+
+msgid "bandwidth as currency"
+msgstr "largura de banda como moeda"
+
+msgid "banner"
+msgstr "banda publicitária"
+
+msgid "baseband"
+msgstr "banda de base"
+
+msgid "benchmarking"
+msgstr "análise comparativa"
+
+msgid "best practices"
+msgstr "boas práticas"
+
+msgid "Big Data"
+msgstr "Grandes Dados"
+
+msgid "biometric control"
+msgstr "controlo biométrico"
+
+msgid "biometrics"
+msgstr "biometria"
+
+msgid "bit"
+msgstr "bit"
+
+msgid "bit per second"
+msgstr "bit por segundo"
+
+msgid "black list"
+msgstr "lista negra"
+
+msgid "black technology"
+msgstr "tecnologia negra"
+
+msgid "blog"
+msgstr "blogue"
+
+msgid "blogsphere"
+msgstr "blogosfera"
+
+msgid "bluetooth"
+msgstr "bluetooth"
+
+msgid "bookmarks"
+msgstr "marcadores"
+
+msgid "boot (to)"
+msgstr "inicializar (o computador)"
+
+msgid "Braille terminal"
+msgstr "terminal Braille"
+
+msgid "bridgeware"
+msgstr "software de transição"
+
+msgid "broadband"
+msgstr "banda larga"
+
+msgid "browser"
+msgstr "navegador"
+
+msgid "bug"
+msgstr "erro (informático)"
+
+msgid "bulletin board system"
+msgstr "sistema de boletins eletrónicos"
+
+msgid "bus"
+msgstr "barramento"
+
+msgid "business intelligence"
+msgstr "inteligência empresarial"
+
+msgid "business process"
+msgstr "processo de negócio"
+
+msgid "business process management"
+msgstr "gestão dos processos de negócio"
+
+msgid "business process outsourcing"
+msgstr "contratação externa de processos de negócio"
+
+msgid "business process reengineering"
+msgstr "reengenharia dos processos de negócio"
+
+msgid "business to business"
+msgstr "transações empresas ­empresas"
+
+msgid "business to consumer"
+msgstr "transações empresas­ consumidores"
+
+msgid "business to employees"
+msgstr "transações empresas­ colaboradores"
+
+msgid "byte"
+msgstr "byte"
+
+msgid "byte per second"
+msgstr "byte por segundo"
+
+msgid "cable modem"
+msgstr "modem de cabo"
+
+msgid "cable television"
+msgstr "televisão por cabo"
+
+msgid "call center"
+msgstr "centro de contacto"
+
+msgid "Capability Maturity model"
+msgstr "modelo CMM"
+
+msgid "cascading style sheets"
+msgstr "folhas de estilo em cascata"
+
+msgid "case­sensitive"
+msgstr "sensível a maiúsculas e minúsculas"
+
+msgid "certificate management"
+msgstr "gestão de certificados"
+
+msgid "certificate revogation list"
+msgstr "lista de certificados revogados"
+
+msgid "certification"
+msgstr "certificação"
+
+msgid "certification authority"
+msgstr "autoridade certificadora"
+
+msgid "chain letter"
+msgstr "mensagem (de correio eletrónico) em cadeia"
+
+msgid "chat"
+msgstr "conversa (em linha)"
+
+msgid "chip"
+msgstr "chip"
+
+msgid "chip card"
+msgstr "cartão de circuitos integrados"
+
+msgid "citizen identification"
+msgstr "identificação do cidadão"
+
+msgid "citizen to Government"
+msgstr "transações cidadãos­Governo"
+
+msgid "client"
+msgstr "cliente"
+
+msgid "client­server"
+msgstr "cliente­servidor"
+
+msgid "client­server architecture"
+msgstr "arquitetura cliente­servidor"
+
+msgid "cloud computing"
+msgstr "computação na nuvem"
+
+msgid "cloud storage"
+msgstr "armazenamento na nuvem"
+
+msgid "cloudware"
+msgstr "software na nuvem"
+
+msgid "cluster"
+msgstr "agrupamento"
+
+msgid "co­creation"
+msgstr "cocriação"
+
+msgid "coaxial cable"
+msgstr "cabo coaxial"
+
+msgid "code"
+msgstr "código"
+
+msgid "commerce eXtensible Markup Language Resources"
+msgstr "protocolo cXML Resources"
+
+msgid "commercial on­line service"
+msgstr "serviço em linha comercial"
+
+msgid "Common Criteria"
+msgstr "norma Critérios Comuns"
+
+msgid "common gateway interface"
+msgstr "interface CGI"
+
+msgid "communication"
+msgstr "comunicação"
+
+msgid "communication channel"
+msgstr "canal de comunicação"
+
+msgid "communication network"
+msgstr "rede de comunicação"
+
+msgid "community of practice"
+msgstr "comunidade de prática"
+
+msgid "compact disk"
+msgstr "disco compacto"
+
+msgid "compact disk ­ interactive"
+msgstr "disco compacto interativo"
+
+msgid "compact disk ­ read only memory"
+msgstr "disco compacto apenas de leitura"
+
+msgid "compliance"
+msgstr "conformidade"
+
+msgid "computer application"
+msgstr "aplicação informática"
+
+msgid "computer crime"
+msgstr "crime informático"
+
+msgid "computer file"
+msgstr "ficheiro informático"
+
+msgid "electronic file"
+msgstr "ficheiro informático"
+
+msgid "computer literacy"
+msgstr "literacia digital"
+
+msgid "computer network"
+msgstr "rede de computadores"
+
+msgid "computer science"
+msgstr "informática"
+
+msgid "computer security"
+msgstr "segurança informática"
+
+msgid "computer singularity"
+msgstr "singularidade computacional"
+
+msgid "computer system"
+msgstr "sistema informático"
+
+msgid "computer­ supported communication"
+msgstr "comunicação apoiada em computadores"
+
+msgid "computer­ supported cooperative work"
+msgstr "trabalho de cooperação apoiado em computadores"
+
+msgid "conference call"
+msgstr "audioconferência"
+
+msgid "confidentiality"
+msgstr "confidencialidade"
+
+msgid "connectivity"
+msgstr "conectividade"
+
+msgid "contactless card"
+msgstr "cartão sem contacto"
+
+msgid "contactless payment"
+msgstr "pagamento sem contacto"
+
+msgid "content"
+msgstr "conteúdo"
+
+msgid "content control"
+msgstr "controlo de conteúdos"
+
+msgid "content management"
+msgstr "gestão de conteúdos"
+
+msgid "content management system"
+msgstr "sistema de gestão de conteúdos"
+
+msgid "content provider"
+msgstr "fornecedor de conteúdos"
+
+msgid "cookie"
+msgstr "cookie"
+
+msgid "corporate governance"
+msgstr "governação das organizações"
+
+msgid "cracker"
+msgstr "pirata informático"
+
+msgid "crash"
+msgstr "falha fatal"
+
+msgid "crawler"
+msgstr "batedor"
+
+msgid "create, read, update and delete"
+msgstr "criar, ler, atualizar e eliminar"
+
+msgid "Creative Commons"
+msgstr "licença Creative Commons"
+
+msgid "crowdfunding"
+msgstr "financiamento coletivo"
+
+msgid "crowdsourcing"
+msgstr "participação coletiva"
+
+msgid "cryptanalysis"
+msgstr "análise criptográfica"
+
+msgid "cryptogram"
+msgstr "criptograma"
+
+msgid "cryptographic algorithm"
+msgstr "algoritmo criptográfico"
+
+msgid "cryptographic key"
+msgstr "chave criptográfica"
+
+msgid "cryptography"
+msgstr "criptografia"
+
+msgid "customer relationship management"
+msgstr "gestão da relação com o cliente"
+
+msgid "cybercafe"
+msgstr "cibercafé"
+
+msgid "cybercrime"
+msgstr "cibercrime"
+
+msgid "cyberethics"
+msgstr "cibernética"
+
+msgid "cybernaut"
+msgstr "cibernauta"
+
+msgid "cybernetics"
+msgstr "cibernética"
+
+msgid "cybersecurity"
+msgstr "cibersegurança"
+
+msgid "cyberspace"
+msgstr "ciberespaço"
+
+msgid "cyberwar"
+msgstr "ciberguerra"
+
+msgid "cypher"
+msgstr "cifra"
+
+msgid "daemon"
+msgstr "daemon"
+
+msgid "dark web"
+msgstr "Web escura"
+
+msgid "dashboard"
+msgstr "painel de gestão"
+
+msgid "data"
+msgstr "dados"
+
+msgid "data aggregation"
+msgstr "agregação de dados"
+
+msgid "data center"
+msgstr "centro de processamento de dados"
+
+msgid "data certification"
+msgstr "certificação de dados"
+
+msgid "data communication"
+msgstr "comunicação de dados"
+
+msgid "data compression"
+msgstr "compressão de dados"
+
+msgid "data flow"
+msgstr "fluxo de dados"
+
+msgid "data flow diagram"
+msgstr "diagrama de fluxo de dados"
+
+msgid "data input"
+msgstr "entrada de dados"
+
+msgid "data integration"
+msgstr "integração de dados"
+
+msgid "data management"
+msgstr "gestão de dados"
+
+msgid "data mining"
+msgstr "mineração de dados"
+
+msgid "data network"
+msgstr "rede de dados"
+
+msgid "data output"
+msgstr "saída de dados"
+
+msgid "data privacy"
+msgstr "privacidade de dados"
+
+msgid "data protection"
+msgstr "proteção de dados"
+
+msgid "data recovery"
+msgstr "recuperação de dados"
+
+msgid "data transparency"
+msgstr "transparência dos dados"
+
+msgid "data warehouse"
+msgstr "armazém de dados"
+
+msgid "database"
+msgstr "base de dados"
+
+msgid "decision support system"
+msgstr "sistema de apoio à decisão"
+
+msgid "decoding"
+msgstr "descodificação"
+
+msgid "decryption"
+msgstr "desencriptação"
+
+msgid "dedicated access"
+msgstr "acesso dedicado"
+
+msgid "dedicated line"
+msgstr "circuito dedicado"
+
+msgid "deep web"
+msgstr "Web profunda"
+
+msgid "denial of service"
+msgstr "negação de serviço"
+
+msgid "desktop"
+msgstr "computador de secretária"
+
+msgid "desktop as a service"
+msgstr "ambiente de trabalho como serviço"
+
+msgid "dial­up access"
+msgstr "ligação por linha comutada"
+
+msgid "digital age"
+msgstr "era digital"
+
+msgid "digital audio"
+msgstr "áudio digital"
+
+msgid "digital certification"
+msgstr "certificação digital"
+
+msgid "digital compression"
+msgstr "compressão digital"
+
+msgid "digital content"
+msgstr "conteúdo eletrónico"
+
+msgid "digital corporation"
+msgstr "empresa digital"
+
+msgid "digital divide"
+msgstr "divisão digital"
+
+msgid "digital economy"
+msgstr "economia eletrónica"
+
+msgid "digital exclusion"
+msgstr "infoexclusão"
+
+msgid "digital identity"
+msgstr "identidade digital"
+
+msgid "digital inclusion"
+msgstr "infoinclusão"
+
+msgid "digital library"
+msgstr "biblioteca digital"
+
+msgid "digital media"
+msgstr "meios de comunicação digitais"
+
+msgid "digital mobile key"
+msgstr "chave móvel digital"
+
+msgid "digital music player"
+msgstr "leitor de música digital"
+
+msgid "digital network"
+msgstr "rede digital"
+
+msgid "digital preservation"
+msgstr "preservação digital"
+
+msgid "digital rights management"
+msgstr "gestão de direitos digitais"
+
+msgid "digital signal"
+msgstr "sinal digital"
+
+msgid "digital signature"
+msgstr "assinatura digital"
+
+msgid "digital subscriber line"
+msgstr "linha de subscritor digital"
+
+msgid "digital television"
+msgstr "televisão digital"
+
+msgid "digital terrestrial television"
+msgstr "televisão digital terrestre"
+
+msgid "digital transmission"
+msgstr "transmissão digital"
+
+msgid "digital versatile disk"
+msgstr "disco versátil digital"
+
+msgid "digital video"
+msgstr "vídeo digital"
+
+msgid "digital video broadcasting"
+msgstr "difusão de vídeo digital"
+
+msgid "digital video interactive"
+msgstr "vídeo digital interativo"
+
+msgid "digital wallet"
+msgstr "carteira eletrónica"
+
+msgid "digitalisation"
+msgstr "digitalização"
+
+msgid "direct­to­home"
+msgstr "direto para casa"
+
+msgid "disaster recovery"
+msgstr "recuperação de desastre"
+
+msgid "disclosure of data"
+msgstr "divulgação de dados"
+
+msgid "distributed computing"
+msgstr "computação Distribuída"
+
+msgid "distribution list"
+msgstr "lista de distribuição"
+
+msgid "Document Management and Electronic Archiving"
+msgstr "Gestão e Arquivo Eletrónico de Documentos"
+
+msgid "documentation management"
+msgstr "gestão documental"
+
+msgid "domain"
+msgstr "domínio"
+
+msgid "domain name"
+msgstr "nome de domínio"
+
+msgid "Domain Name System"
+msgstr "sistema DNS"
+
+msgid "domotics home automation"
+msgstr "domótica"
+
+msgid "download (to)"
+msgstr "descarregar"
+
+msgid "drafts"
+msgstr "caixa de rascunhos"
+
+msgid "dribbleware"
+msgstr "software ajustável"
+
+msgid "Dublin Core"
+msgstr "Dublin Core"
+
+msgid "dynamic page"
+msgstr "página dinâmica"
+
+msgid "e­banking"
+msgstr "banca eletrónica"
+
+msgid "e­book"
+msgstr "livro eletrónico"
+
+msgid "e­business"
+msgstr "negócio eletrónico"
+
+msgid "e­cash"
+msgstr "dinheiro eletrónico"
+
+msgid "e­commerce"
+msgstr "comércio eletrónico"
+
+msgid "e­communication"
+msgstr "comunicação eletrónica"
+
+msgid "e­conference"
+msgstr "conferência eletrónica"
+
+msgid "e­culture"
+msgstr "cultura eletrónica"
+
+msgid "e­democracy"
+msgstr "democracia eletrónica"
+
+msgid "e­development"
+msgstr "desenvolvimento eletrónico"
+
+msgid "e­document"
+msgstr "documento eletrónico"
+
+msgid "e­education"
+msgstr "educação eletrónica"
+
+msgid "e­filing"
+msgstr "declaração eletrónica"
+
+msgid "e­government"
+msgstr "Governo eletrónico"
+
+msgid "e­health"
+msgstr "saúde eletrónica"
+
+msgid "e­invoice"
+msgstr "fatura eletrónica"
+
+msgid "e­journalism"
+msgstr "jornalismo eletrónico"
+
+msgid "e­Justice"
+msgstr "Justiça eletrónica"
+
+msgid "e­kiosk"
+msgstr "quiosque eletrónico"
+
+msgid "e­learning"
+msgstr "aprendizagem eletrónica"
+
+msgid "e­magazine"
+msgstr "revista eletrónica"
+
+msgid "e­mail address"
+msgstr "endereço (de correio) eletrónico"
+
+msgid "e­mail server"
+msgstr "servidor de correio (eletrónico)"
+
+msgid "e­management"
+msgstr "gestão eletrónica"
+
+msgid "e­marketplace"
+msgstr "mercado eletrónico"
+
+msgid "e­newsletter"
+msgstr "boletim eletrónico"
+
+msgid "e­procurement"
+msgstr "aprovisionamento eletrónico"
+
+msgid "e­readiness"
+msgstr "nível de preparação eletrónica"
+
+msgid "e­recruitment"
+msgstr "recrutamento eletrónico"
+
+msgid "e­shop"
+msgstr "loja eletrónica"
+
+msgid "e­shopping"
+msgstr "compras eletrónicas"
+
+msgid "e­signature"
+msgstr "assinatura eletrónica"
+
+msgid "e­transactions"
+msgstr "transações eletrónicas"
+
+msgid "electronic administration"
+msgstr "administração eletrónica"
+
+msgid "electronic archive"
+msgstr "arquivo eletrónico"
+
+msgid "electronic authentication"
+msgstr "autenticação eletrónica"
+
+msgid "electronic data interchange"
+msgstr "intercâmbio eletrónico de dados"
+
+msgid "electronic data processing"
+msgstr "processamento eletrónico de dados"
+
+msgid "electronic dossier"
+msgstr "dossiê eletrónico"
+
+msgid "electronic form"
+msgstr "formulário eletrónico"
+
+msgid "electronic fund transfer"
+msgstr "transferência eletrónica de fundos"
+
+msgid "electronic health card"
+msgstr "cartão de saúde eletrónico"
+
+msgid "electronic identification card"
+msgstr "cartão de identificação eletrónico"
+
+msgid "electronic identification document"
+msgstr "documento de identificação eletrónico"
+
+msgid "electronic laws"
+msgstr "legislação em suporte eletrónico"
+
+msgid "electronic participation"
+msgstr "participação eletrónica"
+
+msgid "electronic payment"
+msgstr "pagamento eletrónico"
+
+msgid "electronic prescription"
+msgstr "prescrição eletrónica"
+
+msgid "electronic service"
+msgstr "serviço eletrónico"
+
+msgid "electronic tendering"
+msgstr "concurso eletrónico"
+
+msgid "electronic voting"
+msgstr "votação eletrónica"
+
+msgid "eletronic ticketing"
+msgstr "bilhete eletrónico"
+
+msgid "emoticon"
+msgstr "ícone emocional"
+
+msgid "encoding"
+msgstr "codificação"
+
+msgid "encryption"
+msgstr "encriptação"
+
+msgid "enterprise application integration"
+msgstr "integração de aplicações empresariais"
+
+msgid "enterprise architecture"
+msgstr "arquitetura de empresa"
+
+msgid "enterprise content management"
+msgstr "gestão de conteúdos empresariais"
+
+msgid "enterprise project management"
+msgstr "gestão de projetos empresariais"
+
+msgid "enterprise resource planning"
+msgstr "planeamento de recursos empresariais"
+
+msgid "entity"
+msgstr "entidade"
+
+msgid "error detection"
+msgstr "deteção de erros"
+
+msgid "Ethernet"
+msgstr "Ethernet"
+
+msgid "Ethernet hub"
+msgstr "concentrador de rede"
+
+msgid "European Computer Driving License"
+msgstr "Carta Europeia de Condução em Informática"
+
+msgid "European Network and Information Security Agency"
+msgstr "Agência Europeia para a Segurança das Redes e da Informação"
+
+msgid "event"
+msgstr "evento"
+
+msgid "event driven architecture"
+msgstr "arquitetura orientada a eventos"
+
+msgid "executive information system"
+msgstr "sistema de informação para executivos"
+
+msgid "exploit"
+msgstr "software de exploração de vulnerabilidades"
+
+msgid "Extended Simple Mail Transfer protocol"
+msgstr "protocolo ESMTP"
+
+msgid "eXtensible Markup Language"
+msgstr "linguagem XML"
+
+msgid "eXtensible Stylesheet Language"
+msgstr "linguagem XSL"
+
+msgid "extranet"
+msgstr "extranet"
+
+msgid "feed"
+msgstr "feed"
+
+msgid "feedWeb feed"
+msgstr "fornecimento (Web)"
+
+msgid "file"
+msgstr "ficheiro"
+
+msgid "file compression"
+msgstr "compressão de ficheiros"
+
+msgid "File Transfer protocol"
+msgstr "protocolo FTP"
+
+msgid "firewall"
+msgstr "barreira de proteção"
+
+msgid "Firewire"
+msgstr "Tecnologia Firewire"
+
+msgid "firmware"
+msgstr "software permanente"
+
+msgid "fixed telephone network"
+msgstr "rede telefónica fixa"
+
+msgid "fixed telephony"
+msgstr "telefonia fixa"
+
+msgid "flash memory"
+msgstr "memória flash"
+
+msgid "folksonomy"
+msgstr "Indexação social"
+
+msgid "form"
+msgstr "formulário"
+
+msgid "format (to)"
+msgstr "formatar"
+
+msgid "frames per second"
+msgstr "quadros por segundo"
+
+msgid "free and open source software"
+msgstr "software livre/aberto"
+
+msgid "free software"
+msgstr "software livre"
+
+msgid "freeware"
+msgstr "software gratuito"
+
+msgid "frequently asked questions"
+msgstr "perguntas mais frequentes"
+
+msgid "front office system"
+msgstr "sistema informático frontal"
+
+msgid "full­motion video"
+msgstr "vídeo de movimento total"
+
+msgid "gateway"
+msgstr "porta de ligação"
+
+msgid "General Packet Radio service"
+msgstr "serviço GPRS"
+
+msgid "geographical information system"
+msgstr "sistema de informação geográfica"
+
+msgid "Geographical Markup Language"
+msgstr "linguagem GML"
+
+msgid "gesture control"
+msgstr "controlo por gestos"
+
+msgid "global information infrastructure"
+msgstr "infraestrutura global da informação"
+
+msgid "Global Positioning System"
+msgstr "sistema de posicionamento global"
+
+msgid "Global System for Mobile Communications"
+msgstr "sistema GSM"
+
+msgid "global village"
+msgstr "aldeia global"
+
+msgid "globalisation"
+msgstr "globalização"
+
+msgid "good governance"
+msgstr "boa governação"
+
+msgid "Google file system"
+msgstr "sistema GFS"
+
+msgid "Governance Enterprise Architecture"
+msgstr "arquitetura de governação empresarial"
+
+msgid "Government gateway"
+msgstr "plataforma de interoperabilidade do Governo"
+
+msgid "government to business"
+msgstr "transações Governo­empresas"
+
+msgid "government to citizens"
+msgstr "transações Governo­cidadãos"
+
+msgid "government to government"
+msgstr "transações Governo­Governo"
+
+msgid "Graphic Interchange Format"
+msgstr "formato GIF"
+
+msgid "graphical user interface"
+msgstr "interface gráfica do utilizador"
+
+msgid "grid computing"
+msgstr "computação em grelha"
+
+msgid "groupware"
+msgstr "software colaborativo"
+
+msgid "hacker"
+msgstr "entusiasta da informática"
+
+msgid "Hadoop"
+msgstr "Hadoop"
+
+msgid "hardware"
+msgstr "hardware"
+
+msgid "hash algorithm"
+msgstr "algoritmo de dispersão"
+
+msgid "hash value hash"
+msgstr "valor hash"
+
+msgid "hashtag"
+msgstr "hashtag"
+
+msgid "health professional card"
+msgstr "cartão profissional de saúde"
+
+msgid "help desk"
+msgstr "serviço de apoio"
+
+msgid "high definition television"
+msgstr "televisão de alta definição"
+
+msgid "high performance computing (and communication)"
+msgstr "computação (e comunicação) de elevado desempenho"
+
+msgid "hoax"
+msgstr "embuste"
+
+msgid "home page"
+msgstr "página principal"
+
+msgid "host"
+msgstr "hospedeiro"
+
+msgid "host computer"
+msgstr "computador hospedeiro"
+
+msgid "hosting"
+msgstr "alojamento virtual"
+
+msgid "hotspot"
+msgstr "ponto de acesso à Internet"
+
+msgid "housing"
+msgstr "alojamento físico"
+
+msgid "human augmentation"
+msgstr "melhoramento humano"
+
+msgid "hyperlink"
+msgstr "hiperligação"
+
+msgid "hypertext"
+msgstr "hipertexto"
+
+msgid "Hypertext Markup language"
+msgstr "linguagem HTML"
+
+msgid "HyperText Transfer protocol"
+msgstr "protocolo HTTP"
+
+msgid "Hypertext Transfer protocol over Secure Socket Layer"
+msgstr "protocolo HTTPS"
+
+msgid "ICQ software"
+msgstr "software ICQ"
+
+msgid "identity authentication"
+msgstr "autenticação de identidade"
+
+msgid "identity management"
+msgstr "gestão de identidades"
+
+msgid "identity theft"
+msgstr "roubo de identidade"
+
+msgid "In­Memory processing"
+msgstr "processamento em memória"
+
+msgid "inbox"
+msgstr "caixa de entrada"
+
+msgid "information"
+msgstr "informação"
+
+msgid "information and communication infrastructure"
+msgstr "infraestrutura da informação e comunicação"
+
+msgid "information and communication technologies"
+msgstr "tecnologias da informação e comunicação"
+
+msgid "information architecture"
+msgstr "arquitetura da informação"
+
+msgid "information broker"
+msgstr "intermediário de informação"
+
+msgid "information crime"
+msgstr "crime de informação"
+
+msgid "information democracy"
+msgstr "democracia da informação"
+
+msgid "information economy"
+msgstr "economia da informação"
+
+msgid "information environment"
+msgstr "ambiente de informação"
+
+msgid "information industry"
+msgstr "indústria da informação"
+
+msgid "information legislation"
+msgstr "legislação da informação"
+
+msgid "information management"
+msgstr "gestão da informação"
+
+msgid "information market"
+msgstr "mercado da informação"
+
+msgid "information overload"
+msgstr "sobrecarga de informação"
+
+msgid "information policy"
+msgstr "política de informação"
+
+msgid "information resources"
+msgstr "recursos de informação"
+
+msgid "information retrieval"
+msgstr "recuperação da informação"
+
+msgid "information security"
+msgstr "segurança da informação"
+
+msgid "information services"
+msgstr "serviços de informação"
+
+msgid "Information Society policy"
+msgstr "política da Sociedade da Informação"
+
+msgid "Information Society Technologies"
+msgstr "tecnologias da Sociedade da Informação"
+
+msgid "information space"
+msgstr "espaço de informação"
+
+msgid "information sphere"
+msgstr "esfera da informação"
+
+msgid "information superhighway"
+msgstr "autoestrada da informação"
+
+msgid "information system"
+msgstr "sistema de informação"
+
+msgid "information technologies"
+msgstr "tecnologias da informação"
+
+msgid "information technology governance"
+msgstr "governação das tecnologias da informação"
+
+msgid "information user"
+msgstr "utilizador de informação"
+
+msgid "innovation process management"
+msgstr "gestão do processo de inovação"
+
+msgid "insourcing"
+msgstr "contratação interna"
+
+msgid "instant messaging"
+msgstr "serviço de mensagens instantâneas"
+
+msgid "integrated services digital network"
+msgstr "rede digital com integração de serviços"
+
+msgid "integrity"
+msgstr "integridade"
+
+msgid "intellectual property"
+msgstr "propriedade intelectual"
+
+msgid "intelligent agents"
+msgstr "agentes inteligentes"
+
+msgid "intelligent telephone network"
+msgstr "rede telefónica inteligente"
+
+msgid "interactive application"
+msgstr "aplicação interativa"
+
+msgid "interactive television"
+msgstr "televisão interativa"
+
+msgid "interactivity"
+msgstr "interatividade"
+
+msgid "interconnectivity"
+msgstr "interconectividade"
+
+msgid "interface"
+msgstr "interface"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Internet access provider"
+msgstr "fornecedor de acesso à Internet"
+
+msgid "Internet forum"
+msgstr "fórum de discussão"
+
+msgid "Internet Message Access Protocol ­version 4"
+msgstr "protocolo IMAP4"
+
+msgid "Internet of things"
+msgstr "Internet das coisas"
+
+msgid "Internet Protocol"
+msgstr "protocolo IP"
+
+msgid "Internet Protocol address"
+msgstr "endereço IP"
+
+msgid "Internet Protocol Television"
+msgstr "Televisão sobre IP"
+
+msgid "Internet Protocol version 4"
+msgstr "protocolo IP versão 4"
+
+msgid "Internet Protocol version 6"
+msgstr "protocolo IP versão 6"
+
+msgid "Internet telephony"
+msgstr "telefonia Internet"
+
+msgid "Internet terminal"
+msgstr "terminal Internet"
+
+msgid "Internet TV"
+msgstr "televisão pela Internet"
+
+msgid "Internet2"
+msgstr "Internet2"
+
+msgid "Internet Net"
+msgstr "Internet"
+
+msgid "interoperability"
+msgstr "interoperabilidade"
+
+msgid "interoperability framework"
+msgstr "plataforma de interoperabilidade"
+
+msgid "intranet"
+msgstr "intranet"
+
+msgid "intruder"
+msgstr "intruso informático"
+
+msgid "IP address"
+msgstr "endereço Internet"
+
+msgid "Java"
+msgstr "linguagem Java"
+
+msgid "Joint Photographers Expert Group format"
+msgstr "formato JPEG"
+
+msgid "key performance indicator"
+msgstr "indicador chave de desempenho"
+
+msgid "knowledge"
+msgstr "conhecimento"
+
+msgid "knowledge base"
+msgstr "base de conhecimento"
+
+msgid "knowledge economy"
+msgstr "economia do conhecimento"
+
+msgid "knowledge management"
+msgstr "gestão do conhecimento"
+
+msgid "Knowledge Society"
+msgstr "Sociedade do Conhecimento"
+
+msgid "laptop"
+msgstr "computador portátil"
+
+msgid "latency"
+msgstr "latência"
+
+msgid "lean government"
+msgstr "Governo otimizado"
+
+msgid "leased line"
+msgstr "circuito alugado"
+
+msgid "leased lineleased circuit"
+msgstr "linha alugada"
+
+msgid "life event"
+msgstr "evento de vida"
+
+msgid "Light Emitting Diode Display"
+msgstr "ecrã LED"
+
+msgid "Light Weight Directory Access protocol"
+msgstr "protocolo LDAP"
+
+msgid "link"
+msgstr "ligação"
+
+msgid "Liquid Cristal Display"
+msgstr "ecrã LCD"
+
+msgid "local area network"
+msgstr "rede local"
+
+msgid "localhost"
+msgstr "localhost"
+
+msgid "log file"
+msgstr "ficheiro de relatório"
+
+msgid "log in (to)"
+msgstr "iniciar uma sessão"
+
+msgid "log off (to)"
+msgstr "terminar uma sessão"
+
+msgid "lol"
+msgstr "lol"
+
+msgid "ludification"
+msgstr "ludificação"
+
+msgid "m­business"
+msgstr "negócio móvel"
+
+msgid "m­commerce"
+msgstr "comércio móvel"
+
+msgid "machine to machine"
+msgstr "comunicação máquina­máquina"
+
+msgid "magnetic card"
+msgstr "cartão magnético"
+
+msgid "mailbox"
+msgstr "caixa de correio (eletrónico)"
+
+msgid "mailing list"
+msgstr "lista de correio"
+
+msgid "malware"
+msgstr "software malicioso"
+
+msgid "man ­machine interaction"
+msgstr "interação homem­máquina"
+
+msgid "management information system"
+msgstr "sistema de informação de gestão"
+
+msgid "MapReduce"
+msgstr "MapReduce"
+
+msgid "markup language"
+msgstr "linguagem de marcação"
+
+msgid "mashup"
+msgstr "aplicação composta"
+
+msgid "mass collaboration"
+msgstr "colaboração em massa"
+
+msgid "mass communication"
+msgstr "comunicação social"
+
+msgid "media"
+msgstr "media"
+
+msgid "media break"
+msgstr "descontinuidade de suporte"
+
+msgid "memory card"
+msgstr "cartão de memória"
+
+msgid "memory card reader"
+msgstr "leitor de cartões (de memória)"
+
+msgid "message authentication"
+msgstr "autenticação de mensagem"
+
+msgid "metadata"
+msgstr "metadados"
+
+msgid "metropolitan area network"
+msgstr "rede metropolitana"
+
+msgid "middleware"
+msgstr "software intermédio"
+
+msgid "mobile application"
+msgstr "aplicação móvel"
+
+msgid "mobile browsing"
+msgstr "navegação móvel"
+
+msgid "mobile communications"
+msgstr "comunicações móveis"
+
+msgid "mobile content delivery"
+msgstr "distribuição de conteúdos a dispositivos móveis"
+
+msgid "mobile information retrieval"
+msgstr "extração de informação com dispositivos móveis"
+
+msgid "mobile operating system"
+msgstr "Sistema operativo móvel"
+
+msgid "mobile over­the­air payment"
+msgstr "pagamento móvel"
+
+msgid "mobile phone"
+msgstr "telemóvel"
+
+msgid "mobile telephony"
+msgstr "telefonia móvel"
+
+msgid "mobility"
+msgstr "mobilidade"
+
+msgid "model requirement for the Management of Electronic Records"
+msgstr "modelo MoReq"
+
+msgid "modem"
+msgstr "modem"
+
+msgid "monitoring"
+msgstr "monitorização"
+
+msgid "motherboard"
+msgstr "placa mãe"
+
+msgid "Moving Pictures Expert Group format"
+msgstr "formato MPEG"
+
+msgid "MP4 format"
+msgstr "formato MP4"
+
+msgid "MPEG­1 Audio Layer­3 format"
+msgstr "formato MP3"
+
+msgid "multimedia"
+msgstr "multimédia"
+
+msgid "Multipurpose Internet Mail Extensions"
+msgstr "protocolo MIME"
+
+msgid "narrowband"
+msgstr "banda estreita"
+
+msgid "National Comission for Data Protection"
+msgstr "Comissão Nacional de Proteção de Dados"
+
+msgid "natural language"
+msgstr "linguagem natural"
+
+msgid "natural user interface"
+msgstr "interface natural do utilizador"
+
+msgid "navigation"
+msgstr "navegação"
+
+msgid "Near field communication"
+msgstr "tecnologia NFC"
+
+msgid "Net economy"
+msgstr "economia da Internet"
+
+msgid "netbook"
+msgstr "computador orientado para a Net"
+
+msgid "netiquette"
+msgstr "etiqueta da Net"
+
+msgid "network"
+msgstr "rede"
+
+msgid "Network computing"
+msgstr "computação em rede"
+
+msgid "network interface"
+msgstr "interface de rede"
+
+msgid "Network News Transfer protocol"
+msgstr "protocolo NNTP"
+
+msgid "network organization"
+msgstr "organização em rede"
+
+msgid "network security"
+msgstr "segurança de redes"
+
+msgid "Network Society"
+msgstr "Sociedade em Rede"
+
+msgid "network technologies"
+msgstr "tecnologias de redes"
+
+msgid "networked economy"
+msgstr "economia em rede"
+
+msgid "networked Governments"
+msgstr "Governos interligados"
+
+msgid "news server"
+msgstr "servidor de notícias"
+
+msgid "newsgroup"
+msgstr "grupo de discussão"
+
+msgid "nickname"
+msgstr "nome alternativo"
+
+msgid "nickname alias"
+msgstr "aliás"
+
+msgid "non case­sensitive"
+msgstr "insensível a maiúsculas e minúsculas"
+
+msgid "non­repudiation"
+msgstr "não repúdio"
+
+msgid "offline"
+msgstr "não conectado"
+
+msgid "offline payment"
+msgstr "pagamento offline"
+
+msgid "one­stop government"
+msgstr "interface administrativa única"
+
+msgid "one­stop shop"
+msgstr "balcão único (de atendimento)"
+
+msgid "one­time password"
+msgstr "palavra­passe de utilização única"
+
+msgid "online"
+msgstr "em linha"
+
+msgid "online analytical processing"
+msgstr "processamento analítico em linha"
+
+msgid "online application"
+msgstr "candidatura em linha"
+
+msgid "Online Certificate Status protocol"
+msgstr "protocolo OCSP"
+
+msgid "online services"
+msgstr "serviços em linha"
+
+msgid "Online Services Computer interfaces"
+msgstr "interfaces OSCI"
+
+msgid "ontology"
+msgstr "ontologia"
+
+msgid "open (source) software"
+msgstr "software aberto"
+
+msgid "open architecture"
+msgstr "arquitetura aberta"
+
+msgid "open data"
+msgstr "dados abertos"
+
+msgid "open format"
+msgstr "formato aberto"
+
+msgid "open network"
+msgstr "rede aberta"
+
+msgid "open standard"
+msgstr "norma aberta"
+
+msgid "open system"
+msgstr "sistema aberto"
+
+msgid "open systems interconnection"
+msgstr "interconexão de sistemas abertos"
+
+msgid "OpenID standard"
+msgstr "norma OpenID"
+
+msgid "operating system"
+msgstr "sistema operativo"
+
+msgid "optical disk"
+msgstr "disco ótico"
+
+msgid "optical fiber"
+msgstr "fibra ótica"
+
+msgid "optical fibre network"
+msgstr "rede de fibra ótica"
+
+msgid "Organic Light Emitting Diode Display"
+msgstr "ecrã OLED"
+
+msgid "Organisation for the Advancement of Structured Information Standards"
+msgstr "Organização para o Desenvolvimento de Normas de Informação Estruturada"
+
+msgid "outbox"
+msgstr "caixa de saída"
+
+msgid "outsourcing"
+msgstr "contratação externa"
+
+msgid "packet"
+msgstr "pacote"
+
+msgid "palm to phand­held"
+msgstr "computador de bolso"
+
+msgid "parental control"
+msgstr "controlo parental"
+
+msgid "password"
+msgstr "palavra­passe"
+
+msgid "peer to peer"
+msgstr "posto­a­posto"
+
+msgid "pendrive"
+msgstr "caneta USB"
+
+msgid "performance"
+msgstr "desempenho"
+
+msgid "personal communication network"
+msgstr "rede PCN"
+
+msgid "personal computer"
+msgstr "computador pessoal"
+
+msgid "personal data"
+msgstr "dados pessoais"
+
+msgid "personal digital assistant"
+msgstr "assistente digital pessoal"
+
+msgid "personal identification number"
+msgstr "número de identificação pessoal"
+
+msgid "pharming"
+msgstr "falsificação do destino (dos dados)"
+
+msgid "phishing"
+msgstr "falsificação da interface"
+
+msgid "plug and play"
+msgstr "ligue e use"
+
+msgid "plug­in"
+msgstr "módulo de extensão"
+
+msgid "podcasting"
+msgstr "podcasting"
+
+msgid "point of presence"
+msgstr "ponto de presença"
+
+msgid "policy formulation"
+msgstr "definição de políticas"
+
+msgid "policy implementation"
+msgstr "implementação de políticas"
+
+msgid "pop­up menu"
+msgstr "menu instantâneo"
+
+msgid "pop­up window"
+msgstr "janela instantânea"
+
+msgid "portability"
+msgstr "portabilidade"
+
+msgid "Portable Network Graphics"
+msgstr "formato PNG"
+
+msgid "post"
+msgstr "artigo"
+
+msgid "Post Office Protocol ­ version 3"
+msgstr "protocolo POP3"
+
+msgid "privacy policy"
+msgstr "política de privacidade"
+
+msgid "private key"
+msgstr "chave privada"
+
+msgid "project management"
+msgstr "gestão de projetos"
+
+msgid "proprietary format"
+msgstr "formato fechado"
+
+msgid "proprietary network"
+msgstr "rede proprietária"
+
+msgid "protocol"
+msgstr "protocolo"
+
+msgid "proxy server"
+msgstr "servidor intermediário"
+
+msgid "public domain"
+msgstr "domínio público"
+
+msgid "public domain software"
+msgstr "software de domínio público"
+
+msgid "public information"
+msgstr "informação pública"
+
+msgid "public key"
+msgstr "chave pública"
+
+msgid "public key certificate"
+msgstr "certificado digital"
+
+msgid "Public Key Cryptography Standard"
+msgstr "norma PKCS"
+
+msgid "public key infrastructure"
+msgstr "infraestrutura de chaves públicas"
+
+msgid "Public Private Partnership"
+msgstr "parceria público­ privada"
+
+msgid "public sector"
+msgstr "setor público"
+
+msgid "public value"
+msgstr "valor público"
+
+msgid "pull technology"
+msgstr "tecnologia pull"
+
+msgid "push technology"
+msgstr "tecnologia push"
+
+msgid "pushware"
+msgstr "software de envio seletivo"
+
+msgid "qualified (digital) certificate"
+msgstr "certificado digital qualificado"
+
+msgid "qualified electronic signature"
+msgstr "assinatura eletrónica qualificada"
+
+msgid "quality of service"
+msgstr "qualidade de serviço"
+
+msgid "quantum computing"
+msgstr "computação quântica"
+
+msgid "radio frequency identification"
+msgstr "identificação por radiofrequência"
+
+msgid "real time enterprise"
+msgstr "empresa em tempo real"
+
+msgid "really simple syndication format"
+msgstr "formato RSS"
+
+msgid "reboot (to)"
+msgstr "reinicializar (o computador)"
+
+msgid "record"
+msgstr "registo"
+
+msgid "Regular Language for XML New Generation"
+msgstr "linguagem regular para XML ­ nova geração"
+
+msgid "release"
+msgstr "versão (disponibilizada)"
+
+msgid "reliability"
+msgstr "fiabilidade"
+
+msgid "remote login"
+msgstr "iniciar uma sessão remotamente"
+
+msgid "Representational State Transfer"
+msgstr "arquitetura REST"
+
+msgid "Resource Description Framework"
+msgstr "modelo RDF"
+
+msgid "Resource Reservation Setup protocol"
+msgstr "protocolo RSVP"
+
+msgid "risk management"
+msgstr "gestão do risco"
+
+msgid "roadmap"
+msgstr "roteiro"
+
+msgid "roaming"
+msgstr "roaming"
+
+msgid "robot"
+msgstr "robô"
+
+msgid "robotics"
+msgstr "robótica"
+
+msgid "router"
+msgstr "roteador"
+
+msgid "RSA algorithm"
+msgstr "algoritmo RSA"
+
+msgid "safer Internet day"
+msgstr "dia da Internet mais segura"
+
+msgid "safety"
+msgstr "garantia de segurança"
+
+msgid "scam"
+msgstr "fraude"
+
+msgid "acambaiting"
+msgstr "apanha ardilosa"
+
+msgid "scanner"
+msgstr "digitalizador (por varrimento)"
+
+msgid "scorecard"
+msgstr "scorecard"
+
+msgid "screen scraping"
+msgstr "captura de dados em ecrã"
+
+msgid "search"
+msgstr "pesquisa (de informação)"
+
+msgid "search engine"
+msgstr "motor de busca"
+
+msgid "search results"
+msgstr "resultado da pesquisa (de informação)"
+
+msgid "secret key"
+msgstr "chave secreta"
+
+msgid "Secure Socket Layer"
+msgstr "protocolo SSL"
+
+msgid "security"
+msgstr "segurança"
+
+msgid "security audit"
+msgstr "auditoria de segurança"
+
+msgid "semantic Web"
+msgstr "Web semântica"
+
+msgid "sent items"
+msgstr "caixa de itens enviados"
+
+msgid "server"
+msgstr "servidor"
+
+msgid "service"
+msgstr "serviço"
+
+msgid "service level agreement"
+msgstr "acordo de nível de serviço"
+
+msgid "service oriented architecture"
+msgstr "arquitetura orientada a serviços"
+
+msgid "service pack"
+msgstr "pacote de correção (de erros específicos)"
+
+msgid "service provider"
+msgstr "fornecedor de serviços"
+
+msgid "service ability"
+msgstr "disponibilidade de um serviço"
+
+msgid "session"
+msgstr "sessão"
+
+msgid "set­top box"
+msgstr "caixa adaptadora"
+
+msgid "shared service center"
+msgstr "centro de serviços partilhados"
+
+msgid "shareware"
+msgstr "software de utilização condicionada"
+
+msgid "Short Message service"
+msgstr "serviço de mensagens curtas"
+
+msgid "shut­down"
+msgstr "encerramento"
+
+msgid "shutdown"
+msgstr "fecho"
+
+msgid "signature card"
+msgstr "cartão de assinatura"
+
+msgid "Simple Mail Transfer Protocol"
+msgstr "protocolo SMTP"
+
+msgid "Simple Object Access Protocol"
+msgstr "protocolo SOAP"
+
+msgid "single access point"
+msgstr "ponto de acesso único"
+
+msgid "single sign­on"
+msgstr "autenticação única"
+
+msgid "slideware"
+msgstr "software por diapositivos"
+
+msgid "smart card"
+msgstr "cartão inteligente"
+
+msgid "smart fabrics"
+msgstr "tecidos inteligentes"
+
+msgid "Smart Pill"
+msgstr "Pílula inteligente"
+
+msgid "smartphone"
+msgstr "telefone inteligente"
+
+msgid "snail mail"
+msgstr "correio postal"
+
+msgid "social BPM"
+msgstr "gestão social de processos de negócio"
+
+msgid "social engineering"
+msgstr "engenharia social"
+
+msgid "social media"
+msgstr "media sociais"
+
+msgid "social network"
+msgstr "rede social"
+
+msgid "socio­technical"
+msgstr "sociotécnico"
+
+msgid "socio­technical system"
+msgstr "sistema sociotécnico"
+
+msgid "software"
+msgstr "software"
+
+msgid "software as a service"
+msgstr "software como serviço"
+
+msgid "software engineering"
+msgstr "engenharia de software"
+
+msgid "software house"
+msgstr "empresa de software"
+
+msgid "software Integrity"
+msgstr "Integridade de software"
+
+msgid "spam"
+msgstr "spam"
+
+msgid "spoofing"
+msgstr "falsificação da identidade"
+
+msgid "spyware"
+msgstr "software espião"
+
+msgid "standard"
+msgstr "norma"
+
+msgid "Standard Generalized Markup Language"
+msgstr "linguagem SGML"
+
+msgid "streaming"
+msgstr "fluxo contínuo"
+
+msgid "Structured Query Language"
+msgstr "linguagem SQL"
+
+msgid "Surface web"
+msgstr "Web superficial"
+
+msgid "switch"
+msgstr "comutador"
+
+msgid "switched circuit"
+msgstr "circuito comutado"
+
+msgid "symmetric cryptography"
+msgstr "criptografia simétrica"
+
+msgid "symmetric digital subscriber line"
+msgstr "linha de subscritor digital simétrica"
+
+msgid "system software"
+msgstr "software de sistema"
+
+msgid "tablet computer"
+msgstr "computador tablete"
+
+msgid "taxonomy"
+msgstr "taxonomia"
+
+msgid "technologic innovation"
+msgstr "inovação tecnológica"
+
+msgid "telecommunications"
+msgstr "telecomunicações"
+
+msgid "telecommunications policy"
+msgstr "política de telecomunicações"
+
+msgid "teleconference"
+msgstr "teleconferência"
+
+msgid "telematics"
+msgstr "telemática"
+
+msgid "telemedicine"
+msgstr "telemedicina"
+
+msgid "telephony"
+msgstr "telefonia"
+
+msgid "teleservice"
+msgstr "teleserviço"
+
+msgid "teleworking"
+msgstr "teletrabalho"
+
+msgid "Telnet protocol"
+msgstr "protocolo Telnet"
+
+msgid "template (1)"
+msgstr "modelo de apresentação"
+
+msgid "template (2)"
+msgstr "padrão de referência"
+
+msgid "thread"
+msgstr "linha de discussão"
+
+msgid "threat"
+msgstr "ameaça"
+
+msgid "time stamp"
+msgstr "marca do dia"
+
+msgid "timeout"
+msgstr "tempo (de espera) excedido"
+
+msgid "timestamp"
+msgstr "datação"
+
+msgid "token"
+msgstr "dispositivo de autenticação"
+
+msgid "top domain"
+msgstr "domínio de topo"
+
+msgid "touch screen"
+msgstr "ecrã tátil"
+
+msgid "traceability"
+msgstr "rastreabilidade"
+
+msgid "Trans­European Services for Telematics between Administrations"
+msgstr "Serviços Transeuropeus para Comunicação à Distância entre Administrações"
+
+msgid "transactions"
+msgstr "transações"
+
+msgid "Transmission Control protocol"
+msgstr "protocolo TCP"
+
+msgid "Transmission Control protocol/Internet protocol"
+msgstr "protocolo TCP/IP"
+
+msgid "transmission rate"
+msgstr "velocidade de transmissão"
+
+msgid "treeware"
+msgstr "treeware"
+
+msgid "trojan (horse)"
+msgstr "cavalo de Troia"
+
+msgid "trust"
+msgstr "confiança"
+
+msgid "trust center"
+msgstr "entidade certificadora"
+
+msgid "trusted time stamp"
+msgstr "validação cronológica"
+
+msgid "trustmark"
+msgstr "marca de confiança"
+
+msgid "Ultra High Definition television"
+msgstr "Televisão de muito alta definição"
+
+msgid "ultra­wide band"
+msgstr "banda ultralarga"
+
+msgid "Uniform Resource Locator"
+msgstr "endereço Web"
+
+msgid "Universal Description, Discovery and Integration directory"
+msgstr "diretório UDDI"
+
+msgid "Universal Mobile Telecommunication System"
+msgstr "sistema UMTS"
+
+msgid "universal unique identifier"
+msgstr "identificador universal único"
+
+msgid "upload (to)"
+msgstr "carregar"
+
+msgid "usability"
+msgstr "usabilidade"
+
+msgid "USB hub"
+msgstr "concentrador USB"
+
+msgid "user"
+msgstr "utilizador"
+
+msgid "user agent"
+msgstr "agente do utilizador"
+
+msgid "user name"
+msgstr "nome de utilizador"
+
+msgid "Users network"
+msgstr "rede Usenet"
+
+msgid "utilities"
+msgstr "utilitários"
+
+msgid "value added network service"
+msgstr "serviço de rede de valor acrescentado"
+
+msgid "vaporware"
+msgstr "software fantasma"
+
+msgid "vertical portal"
+msgstr "portal vertical"
+
+msgid "very high rate digital subscriber line"
+msgstr "linha de subscritor digital de alto débito"
+
+msgid "video­on­demand"
+msgstr "vídeo a pedido"
+
+msgid "videoconference"
+msgstr "videoconferência"
+
+msgid "virtual"
+msgstr "virtual"
+
+msgid "virtual community"
+msgstr "comunidade virtual"
+
+msgid "virtual corporation"
+msgstr "empresa virtual"
+
+msgid "virtual private network"
+msgstr "rede privada virtual"
+
+msgid "virtual reality"
+msgstr "realidade virtual"
+
+msgid "virtual school"
+msgstr "escola virtual"
+
+msgid "virus"
+msgstr "vírus"
+
+msgid "voice over IP"
+msgstr "voz sobre IP"
+
+msgid "vulnerability"
+msgstr "vulnerabilidade"
+
+msgid "wall post"
+msgstr "mural"
+
+msgid "warez"
+msgstr "software pirateado"
+
+msgid "watermark"
+msgstr "marca de água"
+
+msgid "Web architecture"
+msgstr "arquitetura Web"
+
+msgid "Web content management"
+msgstr "gestão de conteúdos Web"
+
+msgid "Web design"
+msgstr "conceção Web"
+
+msgid "Web designer"
+msgstr "autor de páginas Web"
+
+msgid "Web feed aggregator"
+msgstr "agregador de fornecimentos Web"
+
+msgid "Web feed reader"
+msgstr "leitor de fornecimentos Web"
+
+msgid "Web page"
+msgstr "página Web"
+
+msgid "Web portal"
+msgstr "portal Web"
+
+msgid "Web server"
+msgstr "servidor Web"
+
+msgid "Web service modelling ontology"
+msgstr "ontologia para a modelação de serviços Web"
+
+msgid "Web services"
+msgstr "serviços Web"
+
+msgid "Web Services Description language"
+msgstr "linguagem WSDL"
+
+msgid "Web site"
+msgstr "sítio Web"
+
+msgid "Web standards"
+msgstr "normas Web"
+
+msgid "Web TV"
+msgstr "televisão Web"
+
+msgid "Web­enabling"
+msgstr "adaptação à Web"
+
+msgid "webcasting"
+msgstr "difusão Web"
+
+msgid "webmaster"
+msgstr "administrador Web"
+
+msgid "Wi­Fi"
+msgstr "Wi­Fi"
+
+msgid "wide area network"
+msgstr "rede alargada"
+
+msgid "wiki"
+msgstr "wiki"
+
+msgid "Windows Media Audio format"
+msgstr "formato WMA"
+
+msgid "Windows Metafile format"
+msgstr "formato WMF"
+
+msgid "Wireless Application protocol"
+msgstr "protocolo WAP"
+
+msgid "wireless communication"
+msgstr "comunicação sem fios"
+
+msgid "wireless local area network"
+msgstr "rede de área local sem fios"
+
+msgid "wireless phone"
+msgstr "telefone sem fios"
+
+msgid "wireless power transfer"
+msgstr "transmissão de energia sem fios"
+
+msgid "workflow"
+msgstr "fluxo de trabalho"
+
+msgid "workstation"
+msgstr "estação de trabalho"
+
+msgid "World Wide Web"
+msgstr "World Wide Web"
+
+msgid "World Wide Web consortium"
+msgstr "consórcio World Wide Web"
+
+msgid "worm"
+msgstr "verme"
+
+msgid "X­Window"
+msgstr "Interface X­Window"
+
+msgid "X.509 standard"
+msgstr "norma X.509"
+
+msgid "XML schema"
+msgstr "esquema XML"
+
+msgid "XML security"
+msgstr "segurança XML"
+
+msgid "Z­Wave"
+msgstr "protocolo Z­Wave"
+
